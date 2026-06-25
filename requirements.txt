@@ -1,0 +1,4 @@
+numpy>=1.24
+flet>=0.85
+soundcard>=0.4.3
+sounddevice>=0.4.6
